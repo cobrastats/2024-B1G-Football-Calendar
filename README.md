@@ -214,7 +214,7 @@ plot = newpivot %>%
   tab_style(style = cell_fill(color = "#cce7f5"),locations = cells_body(columns = V13,rows = str_detect(V13,"HOME"))) %>% 
   tab_style(style = cell_fill(color = "#cce7f5"),locations = cells_body(columns = V14,rows = str_detect(V14,"HOME"))
             ) %>% 
-  tab_source_note(md("Analysis by @cobrastats | Data via cfbfastR | April 27, 2024")) %>%  
+  tab_source_note(md("Viz by @cobrastats | Data via cfbfastR | April 27, 2024")) %>%  
   tab_style(style = cell_text(size = px(24)),locations = cells_source_notes()
             ) %>%
   gtsave("/path/schedule.png", expand = c(30,60,30,60),vwidth =1600, zoom=4)
