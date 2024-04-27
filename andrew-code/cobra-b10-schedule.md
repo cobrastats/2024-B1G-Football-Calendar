@@ -101,8 +101,9 @@ functions. This will not include the header, other things, etc.
 ### conditional highlighting
 
 okay, so most of this is pretty straightforward. the only *weird* thing
-is how I handled conditional formatting based on location. more on that
-here. it’s just an awkward thing to do w/ no great native solution.
+is how I handled conditional formatting based on location. [more on that
+here](https://x.com/andreweatherman/status/1784328837347582211). it’s
+just an awkward thing to do w/ no great native solution.
 
 you could rewrite this to be cleaner and do things in just two steps,
 but I wanted to keep things a bit more verbose and segragated here.
