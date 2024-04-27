@@ -1,5 +1,5 @@
 # Conference Football Calendar<br>
-![CFBschedule](https://github.com/cobrastats/2024-B1G-Football-Calendar/assets/109628356/c887582c-c5d5-41d5-ae1b-28e8a3580e11)
+![CFBschedule](https://github.com/cobrastats/2024-B1G-Football-Calendar/assets/109628356/acbabaad-6608-4597-9066-f7008433ab5e)
 
 ### Sometimes I've seen conference put out their conference schedules as a massive grid, week by week. So I wanted to recreate that for the B1G. This template can be copied for other conferences. There are some things you'll have to do manually (noted below), but it can be done! It's not always pretty, but it works. <br>
 ##### This is a fairly extensive explanation, meant to walk anyone through the process. You can also just grab the code from above.
